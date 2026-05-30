@@ -3,11 +3,11 @@
   <title>Flipped🥝</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://anuksteffen.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://anuksteffen.github.io/"/>
   <updated>2026-05-30T14:18:33.823Z</updated>
-  <id>http://example.com/</id>
+  <id>https://anuksteffen.github.io/</id>
   
   <author>
     <name>Flipped</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试文章.md</title>
-    <link href="http://example.com/2026/05/30/2026-05-30--/"/>
-    <id>http://example.com/2026/05/30/2026-05-30--/</id>
+    <link href="https://anuksteffen.github.io/note/2026/05/30/2026-05-30--/"/>
+    <id>https://anuksteffen.github.io/note/2026/05/30/2026-05-30--/</id>
     <published>2026-05-30T06:18:33.425Z</published>
     <updated>2026-05-30T14:18:33.823Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>RL_Algorithm1</title>
-    <link href="http://example.com/2025/09/27/RL_Algorithm1/"/>
-    <id>http://example.com/2025/09/27/RL_Algorithm1/</id>
+    <link href="https://anuksteffen.github.io/note/2025/09/27/RL_Algorithm1/"/>
+    <id>https://anuksteffen.github.io/note/2025/09/27/RL_Algorithm1/</id>
     <published>2025-09-27T13:21:21.000Z</published>
     <updated>2025-09-27T13:38:41.612Z</updated>
     
