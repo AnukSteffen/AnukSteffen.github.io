@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://anuksteffen.github.io/note/2026/05/30/2026-05-30--/</loc>
+    <loc>https://anuksteffen.github.io/note/2026/05/30/2026-05-30-%E6%B5%8B%E8%AF%95.md/</loc>
     
     <lastmod>2026-05-30</lastmod>
     
@@ -29,5 +29,12 @@
 
   
 
+  
+  <url>
+    <loc>https://anuksteffen.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
