@@ -1,0 +1,91 @@
+/* Custom styles for categories and tags */
+
+/* Category and Tag page enhancements */
+.tag-cloud-list a,
+.category-list a {
+  display: inline-block;
+  padding: 10px 24px;
+  margin: 8px;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Gradient colors for categories - similar to the reference image */
+.tag-cloud-list a:nth-child(6n+1),
+.category-list a:nth-child(6n+1) {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.tag-cloud-list a:nth-child(6n+2),
+.category-list a:nth-child(6n+2) {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+}
+
+.tag-cloud-list a:nth-child(6n+3),
+.category-list a:nth-child(6n+3) {
+  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+}
+
+.tag-cloud-list a:nth-child(6n+4),
+.category-list a:nth-child(6n+4) {
+  background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+}
+
+.tag-cloud-list a:nth-child(6n+5),
+.category-list a:nth-child(6n+5) {
+  background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+}
+
+.tag-cloud-list a:nth-child(6n),
+.category-list a:nth-child(6n) {
+  background: linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%);
+}
+
+/* Hover effects */
+.tag-cloud-list a:hover,
+.category-list a:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+/* Category count badge */
+.category-list-count,
+.tag-cloud-list-count {
+  background: rgba(255, 255, 255, 0.25);
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 13px;
+  margin-left: 8px;
+  font-weight: 600;
+  backdrop-filter: blur(10px);
+}
+
+/* Category and Tag page title */
+.category-title,
+.tag-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 30px;
+  text-align: center;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .tag-cloud-list a,
+[data-theme='dark'] .category-list a {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme='dark'] .tag-cloud-list a:hover,
+[data-theme='dark'] .category-list a:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
