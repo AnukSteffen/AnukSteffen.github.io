@@ -6,7 +6,7 @@
   <link href="https://anuksteffen.github.io/atom.xml" rel="self"/>
   
   <link href="https://anuksteffen.github.io/"/>
-  <updated>2025-09-27T13:38:41.612Z</updated>
+  <updated>2026-05-31T14:39:07.891Z</updated>
   <id>https://anuksteffen.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://anuksteffen.github.io/note/2026/05/31/2026-05-31-%E6%B5%8B%E8%AF%95/"/>
+    <id>https://anuksteffen.github.io/note/2026/05/31/2026-05-31-%E6%B5%8B%E8%AF%95/</id>
+    <published>2026-05-30T22:38:00.000Z</published>
+    <updated>2026-05-31T14:39:07.891Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/image-20260530223441110-7.png" alt="image-20260530223441110"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/image-20260530223441110-7.png&quot; alt=&quot;image-20260530223441110&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>RL_Algorithm1</title>
