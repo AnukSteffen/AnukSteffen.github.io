@@ -542,32 +542,6 @@
 }
 
 /* ========================================
-   导航栏样式美化
-   ======================================== */
-
-#nav {
-  backdrop-filter: blur(20px);
-  background: rgba(255, 255, 255, 0.8);
-  border-bottom: 1px solid rgba(102, 126, 234, 0.1);
-}
-
-[data-theme='dark'] #nav {
-  background: rgba(0, 0, 0, 0.8);
-  border-bottom-color: rgba(102, 126, 234, 0.2);
-}
-
-#nav .nav-item a {
-  transition: all 0.3s ease;
-  border-radius: 8px;
-  padding: 8px 16px;
-}
-
-#nav .nav-item a:hover {
-  background: linear-gradient(135deg, rgba(102, 126, 234, 0.15) 0%, rgba(118, 75, 162, 0.15) 100%);
-  transform: translateY(-2px);
-}
-
-/* ========================================
    页脚样式美化
    ======================================== */
 
