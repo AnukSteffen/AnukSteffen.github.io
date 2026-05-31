@@ -6,7 +6,7 @@
   <link href="https://anuksteffen.github.io/atom.xml" rel="self"/>
   
   <link href="https://anuksteffen.github.io/"/>
-  <updated>2026-05-31T14:39:07.891Z</updated>
+  <updated>2026-05-31T15:21:47.206Z</updated>
   <id>https://anuksteffen.github.io/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://anuksteffen.github.io/note/2026/05/31/2026-05-31/%C3%A6%C2%B5%C2%8B%C3%A8%C2%AF%C2%95/"/>
+    <id>https://anuksteffen.github.io/note/2026/05/31/2026-05-31/%C3%A6%C2%B5%C2%8B%C3%A8%C2%AF%C2%95/</id>
+    <published>2026-05-31T15:21:47.206Z</published>
+    <updated>2026-05-31T15:21:47.206Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/image-20260530223441110-8.png" alt="image-20260530223441110"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/image-20260530223441110-8.png&quot; alt=&quot;image-20260530223441110&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>测试</title>
-    <link href="https://anuksteffen.github.io/note/2026/05/31/2026-05-31-%E6%B5%8B%E8%AF%95/"/>
-    <id>https://anuksteffen.github.io/note/2026/05/31/2026-05-31-%E6%B5%8B%E8%AF%95/</id>
-    <published>2026-05-30T22:38:00.000Z</published>
-    <updated>2026-05-31T14:39:07.891Z</updated>
+    <link href="https://anuksteffen.github.io/note/2026/05/30/2026-05-31/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://anuksteffen.github.io/note/2026/05/30/2026-05-31/%E6%B5%8B%E8%AF%95/</id>
+    <published>2026-05-30T14:38:00.000Z</published>
+    <updated>2026-05-31T15:04:46.608Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/image-20260530223441110-7.png" alt="image-20260530223441110"></p>]]></content>
     
@@ -30,6 +51,29 @@
       
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/image-20260530223441110-7.png&quot; alt=&quot;image-20260530223441110&quot;&gt;&lt;/p&gt;
 </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>RL_Algorithm1</title>
+    <link href="https://anuksteffen.github.io/note/2025/09/25/2026-05-31/RL_Algorithm1/"/>
+    <id>https://anuksteffen.github.io/note/2025/09/25/2026-05-31/RL_Algorithm1/</id>
+    <published>2025-09-25T13:21:00.000Z</published>
+    <updated>2026-05-31T15:04:18.598Z</updated>
+    
+    <content type="html"><![CDATA[<p>title: RL_Algorithm1</p><p>date: 2025-09-27 21:21:21 </p><p>password: anuk</p><p>cover: <a href="https://tse1-mm.cn.bing.net/th/id/OIP-C.PEvWZZq1e4UmKC4Cb9R7WwHaDO?w=343&h=152&c=7&r=0&o=5&dpr=1.1&pid=1.7">https://tse1-mm.cn.bing.net/th/id/OIP-C.PEvWZZq1e4UmKC4Cb9R7WwHaDO?w=343&amp;h=152&amp;c=7&amp;r=0&amp;o=5&amp;dpr=1.1&amp;pid=1.7</a></p><hr><div class="row">    <embed src="/pdf/RL_Algorithm1.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;title: RL_Algorithm1&lt;/p&gt;
+&lt;p&gt;date: 2025-09-27 21:21:21 &lt;/p&gt;
+&lt;p&gt;password: anuk&lt;/p&gt;
+&lt;p&gt;cover: &lt;a href=&quot;https://tse1-mm.cn.bing.net/th/id/OIP</summary>
       
     
     
